@@ -4,7 +4,7 @@
 
 ## Fuente de datos
 
-La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de información: Employees.csv
+La información oficial provista por https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-11/hotels.csv
 
 ## Métodos
 - Análisis De Negocio
