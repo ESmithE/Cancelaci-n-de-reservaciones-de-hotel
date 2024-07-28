@@ -1,6 +1,7 @@
 # Cancelacion_de_reservaciones_de_hotel
 
-## Análisis:
+## Objetivo:
+Predecir si una reserva será cancelada o no basada en datos históricos y otros factores relevantes.
 
 ## Fuente de datos
 
