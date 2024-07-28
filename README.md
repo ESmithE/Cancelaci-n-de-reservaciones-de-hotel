@@ -1,6 +1,7 @@
 # Cancelacion_de_reservaciones_de_hotel
 
 ## Objetivo:
+
 Predecir si una reserva será cancelada o no basada en datos históricos y otros factores relevantes.
 
 ## Fuente de datos
@@ -37,16 +38,22 @@ La información oficial provista por https://raw.githubusercontent.com/rfordatas
 ## Explora
 - [Notebook](https://deepnote.com/workspace/esmithe-6179-00a5df71-fb48-44a8-ba43-4410de40e4ac/project/MODELO-RESERVACIONES-CANCELADAS-5902584a-5bd2-4fde-b55c-e3c4d8034576/notebook/Notebook%201-a523de00f8c04b85853da74e2a26e00f)
 
-- [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Descarga Código](https://deepnote.com/workspace/esmithe-6179-00a5df71-fb48-44a8-ba43-4410de40e4ac/project/MODELO-RESERVACIONES-CANCELADAS-5902584a-5bd2-4fde-b55c-e3c4d8034576/notebook/Notebook%201-a523de00f8c04b85853da74e2a26e00f)
 
 ## Análisis
-Uno de los problemas que se enfrenta el medio hotelero son las cancelciones de las reservas que tienen un impacto financiero significativo
+
+Las cancelaciones de reservas representan un desafío significativo para los hoteles, afectando tanto sus ingresos como su capacidad para planificar operaciones. Comprender la pérdida monetaria asociada a estas cancelaciones es crucial para enfocar recursos, minimizar el impacto financiero y optimizar la gestión del negocio. Los siguientes puntos aclaran mejor el problema:
+
+- La cancelación implica que la habitación reservada no generará los ingresos esperados, especialmente si se realiza con poca antelación, reduciendo las posibilidades de volver a ocupar la habitación.
+- La habitación cancelada podría haber sido ocupada por otro cliente, lo que es particularmente perjudicial durante temporadas altas o eventos especiales, cuando la demanda es alta.
+- Gestionar cancelaciones requiere recursos adicionales, como tiempo del personal y sistemas de procesamiento de reservas y reembolsos.
+- Las cancelaciones frecuentes dificultan la planificación de la ocupación y afectan las estrategias de precios y optimización de ingresos.
+- Políticas de cancelación poco flexibles o una gestión ineficiente de las cancelaciones pueden dañar la reputación del hotel y disminuir la satisfacción del cliente.
 
 ## Solución
 
-Para minimiazar las perdidas causadas por cancelaciones, se crear un modelo de Machine Learning para poder predecir si algun cliente va a cancelar la reservación, y asi poder implementar algunas entrategias como por ejempli: Un plan flexible para poder cambiar la fecha de la reservación en lugar de cancelar. 
+Para minimiazar las perdidas causadas por cancelaciones, se crea un modelo de Machine Learning que prediga si un cliente cancele la reservació. Este solución permite a los hoteles identificar clientes con alto riesgo de cancelación y tomar medidas, por ejemplo: Un plan flexible para poder cambiar la fecha de la reservación en lugar de cancelar. 
 
-Con la ayuda del Machine Learning se creara un sistema integral que ayudara a proporcionó información valiosa sobre los empleados que podrian estar en riesgo de dejar la empresa en un futuro cercano y así  desarrollar iniciativas personalizadas para involucrar y motivar a estos empleados, abordando las preocupaciones que puedan estar afectando su satisfacción laboral.
 
 
 ## Vistaso rápido a los resultados
