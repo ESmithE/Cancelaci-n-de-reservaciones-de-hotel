@@ -54,28 +54,3 @@ Las cancelaciones de reservas representan un desafío significativo para los hot
 
 Para minimiazar las perdidas causadas por cancelaciones, se crea un modelo de Machine Learning que prediga si un cliente cancele la reservació. Este solución permite a los hoteles identificar clientes con alto riesgo de cancelación y tomar medidas, por ejemplo: Un plan flexible para poder cambiar la fecha de la reservación en lugar de cancelar. 
 
-
-
-## Vistaso rápido a los resultados
-
-> Dashboard
-![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Fuga_de_empleados.png)
-
-> Riesgo de abandono por puesto
-![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_puesto.png)
-
-Nota: Los puestos con más riesgo de abandono laboral son "Sales Representative"
-
-> Riesgo de abandono por edad 
-![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_edad.png)
-
-Nota: Empleados que abandonan la empresa son personas entre los 20 a 22 años.
-
-> Árbol de decisiones
-
-![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
-
-Nota: El árbol de decisiones señala que los empleados con mayor probabilidad a abandonar la empresa son: aquellas personas que hacen horas extras, con posiciones bajas dentro de la empresa, son solteros y la distacia del trabajo a su casa es mas de 6 kilometros
-
-
-
