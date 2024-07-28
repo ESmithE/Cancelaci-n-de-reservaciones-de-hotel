@@ -48,7 +48,7 @@ Con la ayuda del Machine Learning se creara un sistema integral que ayudara a pr
 
 ## Vistaso rápido a los resultados
 
-> Dashboard Fuga de Empleados
+> Dashboard
 ![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Fuga_de_empleados.png)
 
 > Riesgo de abandono por puesto
