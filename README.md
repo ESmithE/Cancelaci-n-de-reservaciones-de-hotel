@@ -8,7 +8,7 @@ Predecir si una reserva será cancelada o no basada en datos históricos y otros
 La información oficial provista por https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-11/hotels.csv
 
 ## Métodos
-- Análisis De Negocio
+- Análisis Del Problema
 - ETL 
 - Análisis Exploratorio De Datos
 - Análisis de penetración
@@ -40,9 +40,11 @@ La información oficial provista por https://raw.githubusercontent.com/rfordatas
 - [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Análisis
-
+Uno de los problemas que se enfrenta el medio hotelero son las cancelciones de las reservas que tienen un impacto financiero significativo
 
 ## Solución
+
+Para minimiazar las perdidas causadas por cancelaciones, se crear un modelo de Machine Learning para poder predecir si algun cliente va a cancelar la reservación, y asi poder implementar algunas entrategias como por ejempli: Un plan flexible para poder cambiar la fecha de la reservación en lugar de cancelar. 
 
 Con la ayuda del Machine Learning se creara un sistema integral que ayudara a proporcionó información valiosa sobre los empleados que podrian estar en riesgo de dejar la empresa en un futuro cercano y así  desarrollar iniciativas personalizadas para involucrar y motivar a estos empleados, abordando las preocupaciones que puedan estar afectando su satisfacción laboral.
 
