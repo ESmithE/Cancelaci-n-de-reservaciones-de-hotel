@@ -35,7 +35,7 @@ La información oficial provista por https://raw.githubusercontent.com/rfordatas
 
 
 ## Explora
-- [Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
+- [Notebook](https://deepnote.com/workspace/esmithe-6179-00a5df71-fb48-44a8-ba43-4410de40e4ac/project/MODELO-RESERVACIONES-CANCELADAS-5902584a-5bd2-4fde-b55c-e3c4d8034576/notebook/Notebook%201-a523de00f8c04b85853da74e2a26e00f)
 
 - [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
