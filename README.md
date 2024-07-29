@@ -36,9 +36,8 @@ La información oficial provista por https://raw.githubusercontent.com/rfordatas
 
 
 ## Explora
-- [Notebook](https://deepnote.com/workspace/esmithe-6179-00a5df71-fb48-44a8-ba43-4410de40e4ac/project/MODELO-RESERVACIONES-CANCELADAS-5902584a-5bd2-4fde-b55c-e3c4d8034576/notebook/Notebook%201-a523de00f8c04b85853da74e2a26e00f)
 
-- [Descarga Código](https://deepnote.com/workspace/esmithe-6179-00a5df71-fb48-44a8-ba43-4410de40e4ac/project/MODELO-RESERVACIONES-CANCELADAS-5902584a-5bd2-4fde-b55c-e3c4d8034576/notebook/Notebook%201-a523de00f8c04b85853da74e2a26e00f)
+- [Descarga Código](https://github.com/ESmithE/Cancelaci-n-de-reservaciones-de-hotel/blob/master/modelo_hotel%20.ipynb)
 
 ## Análisis
 
