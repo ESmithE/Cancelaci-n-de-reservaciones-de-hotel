@@ -31,7 +31,6 @@ La información oficial provista por https://raw.githubusercontent.com/rfordatas
 
 | VSCODE  | [![My Skills](https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png)](https://skillicons.dev)  | 
 | :------------ |:---------------:| 
-| TABLEAU |[![My Skills](https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png)](https://skillicons.dev) | 
 | GITHUB | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
